@@ -1,1 +1,1 @@
-# zkrx-proof-server
+proof-server
